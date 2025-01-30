@@ -37,7 +37,7 @@ Note that the function expects a string representing the credit card number, whi
 By following these steps, you can easily test and utilize the detectCreditCardType function in a browser environment.
 
 ## Installation
-To use this function in your own project, you can copy and paste the code into your JavaScript file or install it using npm (once it's published).
+To use this function in your own project, you can copy and paste the code into your JavaScript file or install it using npm.
 
 ## Contributing
 If you'd like to contribute to this repository, please fork it and submit a pull request with your changes. Make sure to include tests for any new features or bug fixes.
