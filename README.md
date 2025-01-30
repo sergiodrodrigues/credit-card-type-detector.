@@ -27,8 +27,6 @@ To utilize the detectCreditCardType function, follow these steps:
 + Invoke the function by calling it with a valid credit card number as an argument, like so:
 + const cardType = detectCreditCardType('5105105105105100');
 + console.log(cardType); // Output: MasterCard
-
-<br>
 Alternatively, you can also use it as follows:
 + console.log(detectCreditCardType('5105105105105100')); // Output: MasterCard
 + console.log(detectCreditCardType('371449635398431')); // Output: American Express
